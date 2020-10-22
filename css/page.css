@@ -1,0 +1,56 @@
+
+.logo {
+  /* الصوره الكبيره الموجوده بالصفحه الرئيسيه */
+   display: flex;
+   background-color: #033249;
+   padding: 374px;
+   padding-top: 90px;
+   margin: 0px;
+}
+.a{
+  display: flex;
+  justify-content: left;
+  font-size: 20px;
+  text-align: left;
+  color: white;
+  margin-left: 500px;
+}
+
+.mr-auto{
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  margin-right: 22px;
+  color: white;
+  margin-left: 50px;
+
+}
+.bar{
+  display: flex;
+  background-color: #FF8038; 
+  font-size: 16px;
+  color: white;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.a {
+  color: white;
+}
+
+.ph{
+  /* صور المنتجات  */
+  color: white;
+}
+
+.img{
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.t{
+  display: flex;
+  justify-content: center;
+}
+
